@@ -189,3 +189,9 @@ This project is an educational prototype, not an automated credit-decision syste
 ## Acknowledgment
 
 Dataset: I-Cheng Yeh and Che-hui Lien, *The Comparisons of Data Mining Techniques for the Predictive Accuracy of Probability of Default of Credit Card Clients*, Expert Systems with Applications, 2009.
+
+> [!NOTE]
+> **Project status: Work in progress.**
+>
+> The current repository contains a provisional end-to-end implementation. Model results, documentation, and interpretation will be reviewed and refined progressively.
+
